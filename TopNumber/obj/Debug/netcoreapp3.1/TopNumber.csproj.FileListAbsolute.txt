@@ -1,0 +1,13 @@
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.exe
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.deps.json
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.json
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.runtimeconfig.dev.json
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.dll
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\bin\Debug\netcoreapp3.1\TopNumber.pdb
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csprojAssemblyReference.cache
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfoInputs.cache
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.AssemblyInfo.cs
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.dll
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.pdb
+C:\Users\rchaushev001\source\repos\Methods - Exercise\TopNumber\obj\Debug\netcoreapp3.1\TopNumber.genruntimeconfig.cache
